@@ -112,7 +112,7 @@ app <- teal::init(
   ),
   
   header = div(
-    tags$h1("Teal app for study XX12345")
+    tags$h1("Teal app for 2023 X-AGI conference NEST demo")
   )
 )
 
