@@ -4,23 +4,23 @@
     "Repositories": [
       {
         "Name": "BioCsoft",
-        "URL": "https://bioconductor.org/packages/3.17/bioc"
+        "URL": "https://bioconductor.org/packages/3.18/bioc"
       },
       {
         "Name": "BioCann",
-        "URL": "https://bioconductor.org/packages/3.17/data/annotation"
+        "URL": "https://bioconductor.org/packages/3.18/data/annotation"
       },
       {
         "Name": "BioCexp",
-        "URL": "https://bioconductor.org/packages/3.17/data/experiment"
+        "URL": "https://bioconductor.org/packages/3.18/data/experiment"
       },
       {
         "Name": "BioCworkflows",
-        "URL": "https://bioconductor.org/packages/3.17/workflows"
+        "URL": "https://bioconductor.org/packages/3.18/workflows"
       },
       {
         "Name": "BioCbooks",
-        "URL": "https://bioconductor.org/packages/3.17/books"
+        "URL": "https://bioconductor.org/packages/3.18/books"
       },
       {
         "Name": "CRAN",
@@ -28,23 +28,23 @@
       },
       {
         "Name": "BioC.BioCsoft",
-        "URL": "https://bioconductor.org/packages/3.17/bioc"
+        "URL": "https://bioconductor.org/packages/3.18/bioc"
       },
       {
         "Name": "BioC.BioCann",
-        "URL": "https://bioconductor.org/packages/3.17/data/annotation"
+        "URL": "https://bioconductor.org/packages/3.18/data/annotation"
       },
       {
         "Name": "BioC.BioCexp",
-        "URL": "https://bioconductor.org/packages/3.17/data/experiment"
+        "URL": "https://bioconductor.org/packages/3.18/data/experiment"
       },
       {
         "Name": "BioC.BioCworkflows",
-        "URL": "https://bioconductor.org/packages/3.17/workflows"
+        "URL": "https://bioconductor.org/packages/3.18/workflows"
       },
       {
         "Name": "BioC.BioCbooks",
-        "URL": "https://bioconductor.org/packages/3.17/books"
+        "URL": "https://bioconductor.org/packages/3.18/books"
       },
       {
         "Name": "BioC.CRAN",
@@ -75,12 +75,12 @@
     },
     "BiocVersion": {
       "Package": "BiocVersion",
-      "Version": "3.17.1",
+      "Version": "3.18.0",
       "Source": "Bioconductor",
       "Requirements": [
         "R"
       ],
-      "Hash": "f7c0d5521799b7b0d0a211143ed0bfcb"
+      "Hash": "04061006bd4508cea2f6eac0ee9f2876"
     },
     "DT": {
       "Package": "DT",
@@ -887,14 +887,14 @@
     },
     "formatters": {
       "Package": "formatters",
-      "Version": "0.5.1",
+      "Version": "0.5.4",
       "Source": "GitHub",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
       "RemoteUsername": "insightsengineering",
       "RemoteRepo": "formatters",
-      "RemoteRef": "v0.5.1",
-      "RemoteSha": "c9649d4711c122e62390ad5d0aee0ac3d3d981ff",
+      "RemoteRef": "v0.5.4",
+      "RemoteSha": "61aa8017c60283047ce7b0d5f1a76b1f22f17668",
       "Requirements": [
         "R",
         "checkmate",
@@ -902,7 +902,7 @@
         "htmltools",
         "methods"
       ],
-      "Hash": "0d42be714e52475285858f02f650fa9f"
+      "Hash": "7882227b60c0afb958bbb3b6e0ad076d"
     },
     "fs": {
       "Package": "fs",
@@ -2713,15 +2713,15 @@
     },
     "tern.mmrm": {
       "Package": "tern.mmrm",
-      "Version": "0.2.2.9007",
+      "Version": "0.2.2.9002",
       "Source": "GitHub",
+      "Remotes": "insightsengineering/tern@*release, openpharma/mmrm",
       "RemoteType": "github",
       "RemoteHost": "api.github.com",
+      "RemoteRepo": "tern.mmrm",
       "RemoteUsername": "insightsengineering",
-      "RemoteRepo": "tern.gee",
-      "RemoteRef": "v0.2.2.9007",
-      "RemoteSha": "b25c83f02a9c1fe5f6b099930f18b4a3741f26c5",
-      "Remotes": "insightsengineering/tern@*release",
+      "RemoteRef": "13376aa5adc9eaab1c4ce26207eb15e3815b42e5",
+      "RemoteSha": "13376aa5adc9eaab1c4ce26207eb15e3815b42e5",
       "Requirements": [
         "R",
         "checkmate",
@@ -2741,7 +2741,7 @@
         "tern",
         "tidyr"
       ],
-      "Hash": "57f2e9980f00cba17c83136279d0afd7"
+      "Hash": "66a466047ce1e9d1932c665357076dfe"
     },
     "testthat": {
       "Package": "testthat",
