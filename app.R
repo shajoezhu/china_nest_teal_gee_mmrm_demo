@@ -116,4 +116,5 @@ app <- teal::init(
   )
 )
 
-runApp(app)
+shinyApp(app$ui, app$server)
+
